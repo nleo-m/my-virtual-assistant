@@ -1,0 +1,30 @@
+# arquivos bytecode do Python
+__pycache__/
+*.py[cod]
+
+# pasta de ambiente virtual
+venv/
+env/
+
+# variáveis de ambiente
+.env
+
+# arquivos de log
+*.log
+
+# outros arquivos temporários
+*.bak
+*.swp
+*.tmp
+*.~*
+
+# arquivos de configuração do sistema
+*.DS_Store
+Thumbs.db
+
+# arquivos de saída gerados pelo projeto
+*.csv
+*.json
+*.html
+*.xlsx
+
